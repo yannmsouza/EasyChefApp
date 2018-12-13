@@ -1,0 +1,48 @@
+<resources>
+
+    <!--Titles-->
+    <string name="app_name">EasyChef</string>
+    <string name="title_home">Home</string>
+    <string name="title_adicionar_receita">Adicionar Receita</string>
+    <string name="title_relatorios">Relatorios</string>
+    <string name="title_receita">Receita</string>
+    <string name="title_categorias">Categorias</string>
+
+
+    <string name="description">Image</string>
+
+    <!--Textos-->
+    <string name="textNome">Nome *</string>
+    <string name="textDescricao">Descricao *</string>
+    <string name="textIngredientes">Ingredientes *</string>
+    <string name="textCategoria">Categoria *</string>
+    <string name="textModoPreparo">Modo de Preparo *</string>
+    <string name="textTempoPreparo">Tempo de Preparo (min) *</string>
+    <string name="textTeorCal">Teor Calorico (kcal)</string>
+    <string name="textAvaliacao">Avaliacao (1..5)</string>
+
+    <!--Hints-->
+    <string name="hintNomeReceita">Nome da Receita</string>
+    <string name="hintDescricao">Descricao da Receita</string>
+    <string name="hintIngredientes">Ingredientes (Um a cada linha)</string>
+    <string name="hintModoPreparo">Passos da Receita (Um a cada linha)</string>
+    <string name="hintObservacoes">Observacoes</string>
+    <string name="hintTeorCal">kcal</string>
+    <string name="hintAvaliacao">1 a 5</string>
+
+    <!--Warnings-->
+    <string name="warningInputs">* Informação Obrigatoria</string>
+
+    <!--Buttons-->
+    <string name="bttnSalvar">Salvar</string>
+    <string name="bttnCancelar">Cancelar</string>
+
+    <!--Title-->
+    <string name="edtReceita">Editar Receita</string>
+    <string name="hintTempoPreparo" />
+    <string name="mensagemReceita">Receita Criada</string>
+    <string name="textVoltar">Voltar</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
